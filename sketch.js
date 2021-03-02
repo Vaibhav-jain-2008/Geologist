@@ -54,14 +54,6 @@ function draw() {
   sand4.display();
   sand5.display();
   sand6.display();
-
-  textSize(15).text("RUBBER",665,450);
-  textSize(20).text("STONE",660,550);
-  textSize(20).text("IRON",300,540);
-  textSize(20).text("SAND",200,570);
-  textSize(20).text("SAND",380,570);
-  //text.collided("rubber")
-  
  
    
 }
